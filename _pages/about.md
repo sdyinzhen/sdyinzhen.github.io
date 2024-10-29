@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "David Zhen Yin"
+title: "David Zhen Yin - decision making under geological uncertainty for critical earth resources"
 author_profile: true
 redirect_from: 
   - /about/
