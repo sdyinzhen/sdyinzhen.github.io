@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "David Zhen Yin - decision making under geological uncertainty for critical earth resources"
+excerpt: "About me"
+title: "David Zhen Yin - Senior Research Scientist, Stanford University"
 author_profile: true
 redirect_from: 
   - /about/
