@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "He/Him"  
   bio              : "Senior Research Scientist, <a href=\"https://epsci.stanford.edu/\">Stanford Earth & Planetary Sciences Department</a>; <br /> Program Director & Co-Founder, <a href=\"https://mineralx.stanford.edu/\">Stanford Mineral-X</a> "
   location         : "Stanford, CA"
-  employer         : "Stanford University"
-  uri              : "https://profiles.stanford.edu/david-zhen-yin"
+  employer         : "<a href=\"https://profiles.stanford.edu/david-zhen-yin\">Stanford University</a>"
+  uri              : # "https://profiles.stanford.edu/david-zhen-yin"
   email            : "yinzhen@stanford.edu" 
 
   # Academic websites
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9215-4426"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sdyinzhen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/david-zhen-yin-08006851/
+  linkedin         : "david-zhen-yin-08006851"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
