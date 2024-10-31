@@ -1,7 +1,7 @@
 ---
 permalink: /
 excerpt: "About me"
-title: "David Zhen Yin - Senior Research Scientist, Stanford University"
+title: "David Zhen Yin - Critical Earth Resources Forecasting under Geological Uncertainty"
 author_profile: true
 redirect_from: 
   - /about/
