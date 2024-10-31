@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "David Zhen Yin"
   pronouns         : # example: "He/Him"  
-  bio              : "Senior Research Scientist, <a href=\"https://epsci.stanford.edu/\">Stanford Earth & Planetary Sciences Department</a>; <br /> Program Director & Co-Founder, <a href=\"https://mineralx.stanford.edu/\">Stanford Mineral-X</a> "
+  bio              : "Senior Research Scientist, <a href=\"https://epsci.stanford.edu/\">Stanford Earth & Planetary Sciences </a>; <br /> Program Director & Co-Founder, <a href=\"https://mineralx.stanford.edu/\">Stanford Mineral-X</a> "
   location         : "Stanford, CA"
-  employer         : "Stanford University[https://profiles.stanford.edu/david-zhen-yin]"
+  employer         : "Stanford University"
   uri              : # "https://profiles.stanford.edu/david-zhen-yin"
   email            : "yinzhen@stanford.edu" 
 
