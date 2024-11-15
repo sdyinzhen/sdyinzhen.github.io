@@ -21,7 +21,7 @@ repository               : "sdyinzhen/sdyinzhen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Headshot_DavidZhenYin.jpeg"
   name             : "David Zhen Yin"
   pronouns         : # example: "He/Him"  
   bio              : "Senior Research Scientist, <a href=\"https://epsci.stanford.edu/\">Stanford Earth and Planetary Sciences </a>; <br /> Program Director & Co-Founder, <a href=\"https://mineralx.stanford.edu/\">Stanford Mineral-X</a> "
