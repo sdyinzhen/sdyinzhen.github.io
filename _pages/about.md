@@ -1,7 +1,7 @@
 ---
 permalink: /
 excerpt: "About me"
-title: "Accelerate Critical Earth Resources Decision-Making under Subsurface Uncertainty"
+title: "Accelerate Decision-Making for Critical Earth Resources under Subsurface Uncertainty"
 author_profile: true
 redirect_from: 
   - /about/
