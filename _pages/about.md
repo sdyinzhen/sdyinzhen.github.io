@@ -1,7 +1,7 @@
 ---
 permalink: /
 excerpt: "About me"
-title: "David Zhen Yin - Critical Earth Resources Forecasting under Geological Uncertainty"
+title: "Accelerate Critical Earth Resources Decision-Making under Subsurface Uncertainty"
 author_profile: true
 redirect_from: 
   - /about/
